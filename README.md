@@ -1,1 +1,1 @@
-# JavaScript---Applications
+# JavaScript-Applications
